@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "Sdragon"
+    organization = "Sdragon-org"
     hostname     = "app.terraform.io" # default
 
     workspaces {
